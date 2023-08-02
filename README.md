@@ -1,2 +1,2 @@
 # Android_NavDemo
-Test Navigation on the phone
+Test the 'Navigation' on the phone
